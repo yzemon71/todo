@@ -49,6 +49,7 @@ Thumbs.db
 
 # Maven
 target
+.factorypath
 
 # Build
 out
